@@ -1,1 +1,17 @@
 /* Add your CSS here */
+body {
+    font-family: "San Francisco", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.header-logo {
+    width: 150px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+header {
+    background-color: #127CC1;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
